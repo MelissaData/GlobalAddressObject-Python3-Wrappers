@@ -13,7 +13,7 @@ For further details, please visit: https://wiki.melissadata.com/index.php?title=
 ## Tested Environments
 
 - Windows 64-bit Python 3.8.7
-- Melissa Global Address Object for 2023-Q3
+- Melissa Global Address Object for 2023-Q4
 
 ## Getting Started
 
