@@ -12,8 +12,10 @@ For further details, please visit: https://wiki.melissadata.com/index.php?title=
 
 ## Tested Environments
 
-- Windows 64-bit Python 3.8.7
-- Melissa Global Address Object for 2023-Q4
+- Windows 10 64-bit Python 3.8.7, Powershell 5.1
+- Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
+- Melissa Global Address Object for 2024-Q1
+- Wrapper file(s) have not changed since 2023-Q3
 
 ## Getting Started
 
